@@ -9,3 +9,5 @@ print(str2);
 for i in range(len(str2)):
     print(str2[i]+str2[i+1])
     i=i+2
+
+    print("newCommit")
